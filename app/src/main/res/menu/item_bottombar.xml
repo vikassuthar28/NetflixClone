@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/txt_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/txt_comingsoon"
+        android:title="ComingSoon"
+        android:icon="@drawable/ic_comingsoon"/>
+    <item android:id="@+id/txt_search"
+        android:title="Search"
+        android:icon="@drawable/ic_baseline_search"/>
+    <item android:id="@+id/txt_download"
+        android:title="Download"
+        android:icon="@drawable/ic_downward"/>
+
+</menu>
